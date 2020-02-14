@@ -1,5 +1,4 @@
 Pomme
 Banane
-Fraise
-Poire
-Kiwi
+Framboise
+Cerise
