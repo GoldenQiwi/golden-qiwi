@@ -4,7 +4,7 @@ Un projet réalisé en cours
 
 ## Auteurs :
 
-Les auteurs qui ont contribuer à ce projet sont :
+Les auteurs qui ont contribués à ce projet sont :
 
 ```
 Mikayil - GoldenQiwi
