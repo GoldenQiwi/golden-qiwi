@@ -7,8 +7,8 @@ Un projet réalisé en cours
 Les auteurs qui ont contribuer à ce projet sont :
 
 ```
-Mikayil
-Ambre
+Mikayil - GoldenQiwi
+Ambre - Agarrow24
 ```
 
 ## Objectifs :
